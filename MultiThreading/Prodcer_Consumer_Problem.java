@@ -1,3 +1,5 @@
+package Multithreding;
+
 class Buffer{
 	
 	int value =0;
